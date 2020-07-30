@@ -1,6 +1,6 @@
 public class ProductViewHolder  {
 
-    public ProductViewHolder() {
+    public ProductViewHolder1() {
     }
 
     public TextView getTxtProductNumber() {
